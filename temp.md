@@ -10,3 +10,7 @@ rag system design
 
 ![ale](image.png)
 
+knowledge base
+
+indexing pipeline
+
